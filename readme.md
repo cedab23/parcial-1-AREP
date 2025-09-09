@@ -54,6 +54,8 @@ en los archivos del ejercicio:
 Java -cp target/classes com.mycompany.parcial
 ```
 - Una vez inicializado deberia verse en la terminal el siguiente mensaje:
+
+
 ![Inicio servidor](/images/inicio.png)
 
 - Ahora en un buscador web digitamos el siguiente enlace:
@@ -62,6 +64,7 @@ Java -cp target/classes com.mycompany.parcial
 http://localhost:5000
 ```
 **Ejemplo:**
+
 ![Enlace](/images/enlace.png)
 
 El cual devolvera el siguiente mensaje en texto plano:
